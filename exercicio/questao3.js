@@ -1,0 +1,6 @@
+
+function clicou(){
+    var nome=prompt("Qual seu nome:");
+    alert("Seja bem vindo "+nome);
+   
+}
